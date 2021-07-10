@@ -1,0 +1,16 @@
+print("hello sir/ma'am, this is sep, I wil help you in the tables!!! just write the number down")
+num1 = int(input("Entre number: "))
+
+print(num1 * 1)
+print(num1 * 2)
+print(num1 * 3)
+print(num1 * 4)
+print(num1 * 5)
+print(num1 * 6)
+print(num1 * 7)
+print(num1 * 8)
+print(num1 * 9)
+print(num1 * 10)
+
+print("done! thank for using me")
+print("we will meet again!!!, until then bye!")
